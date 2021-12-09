@@ -1,0 +1,1 @@
+placeTower(fireTowerLV1BaseObject);

@@ -1,0 +1,1 @@
+placeTower(waterTowerLV1BaseObject);

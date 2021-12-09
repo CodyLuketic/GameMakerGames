@@ -1,0 +1,1 @@
+setTowerClicked(30);

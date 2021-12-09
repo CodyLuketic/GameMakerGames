@@ -1,0 +1,1 @@
+placeTower(grassTowerLV1BaseObject);

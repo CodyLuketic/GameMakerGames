@@ -1,0 +1,1 @@
+towerClickable(waterTowerLV1DraggedObject);

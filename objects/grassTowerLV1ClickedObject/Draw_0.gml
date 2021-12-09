@@ -1,0 +1,1 @@
+drawTower(gameFont, c_white, fa_center, fa_left);

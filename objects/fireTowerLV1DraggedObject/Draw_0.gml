@@ -1,0 +1,1 @@
+drawRange(id, turretRange);

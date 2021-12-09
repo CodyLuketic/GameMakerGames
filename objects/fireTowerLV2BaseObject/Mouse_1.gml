@@ -1,0 +1,1 @@
+upgradeTower(upgradeCost, fireTowerLV3BaseObject);

@@ -1,0 +1,1 @@
+upgradeTower(upgradeCost, waterTowerLV3BaseObject);

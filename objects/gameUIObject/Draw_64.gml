@@ -1,0 +1,1 @@
+drawInformation(gameFont, c_white, fa_top, fa_left);

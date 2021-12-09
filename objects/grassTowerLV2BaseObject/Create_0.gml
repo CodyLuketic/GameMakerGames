@@ -1,0 +1,1 @@
+setTowerBase(500, 20, 100);

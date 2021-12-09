@@ -1,0 +1,1 @@
+towerShoot(fireBulletObject, 50, fireSound);

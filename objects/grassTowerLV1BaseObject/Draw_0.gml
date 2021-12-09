@@ -1,0 +1,3 @@
+towerFindEnemy();
+
+upgradePopup(id);

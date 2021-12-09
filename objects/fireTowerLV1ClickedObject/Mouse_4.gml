@@ -1,0 +1,1 @@
+towerClickable(fireTowerLV1DraggedObject);

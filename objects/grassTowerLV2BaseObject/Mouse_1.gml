@@ -1,0 +1,1 @@
+upgradeTower(upgradeCost, grassTowerLV3BaseObject);
